@@ -234,6 +234,15 @@ Financial services - where we don't allow you to create the strongest password p
 
 ![Synchrony Financial](/screenshots/synchrony.png "Synchrony Financial")
 
+### [TCF Bank]
+(https://www.billerpayments.com/app/cust/loginsetup.do)
+
+Rejects any special characters (explicitly tells you they're not allowed after you try). Trying to enter 32 characters with a mix of lower, upper & numerals and it says it is a weak password. Also, can't be sure but when typing manually, it seems it stops at 20 characters.
+
+Just shameful
+
+![TCF Bank](/screenshots/tcf_bank.png "TCF Bank")
+
 ### [Ubisoft](https://account.ubisoft.com/en-GB/action/change-password)
 Only tells you the rules after submitting and clicking a link to a pop up window.
 
